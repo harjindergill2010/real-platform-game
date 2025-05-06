@@ -1,12 +1,12 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_wall",
+  "name": "Object5",
   "spriteId": {
-    "name": "wallllll",
-    "path": "sprites/wallllll/wallllll.yy",
+    "name": "you_win",
+    "path": "sprites/you_win/you_win.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
