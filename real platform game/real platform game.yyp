@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "real platform game",
   "resources": [
+    {"id":{"name":"snd_music","path":"sounds/snd_music/snd_music.yy",},"order":0,},
     {"id":{"name":"spr_guyup","path":"sprites/spr_guyup/spr_guyup.yy",},"order":1,},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"order":1,},
     {"id":{"name":"Object5","path":"objects/Object5/Object5.yy",},"order":4,},

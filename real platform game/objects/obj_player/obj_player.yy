@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_player",
   "spriteId": {
-    "name": "spr_guyleft",
-    "path": "sprites/spr_guyleft/spr_guyleft.yy",
+    "name": "spr_guyright",
+    "path": "sprites/spr_guyright/spr_guyright.yy",
   },
   "solid": false,
   "visible": true,

@@ -14,3 +14,5 @@ climb_speed = 2.5;        // Climbing speed
 // ######################## OBJECT REFERENCES ########################
 ground_object = obj_ground;   // Replace with your ground object's name
 ladder_object = obj_ladder;   // Replace with your ladder object's name
+
+audio_play_sound(snd_music,10,true);
